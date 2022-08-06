@@ -1,2 +1,2 @@
 # Movie-seats-booking
-https://igorcar.github.io/Movie-seats-booking/
+https://igorgrabovac.github.io/Movie-seats-booking/
